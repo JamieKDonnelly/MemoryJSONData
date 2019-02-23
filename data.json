@@ -4,156 +4,36 @@
         "maxWidth": 1.1,
         "delayTime": 600,
         "background": "/images/level-1/level-1-bg.jpg",
-        "tiles": [
-            {
-                "id": "11"
-            },
-            {
-                "id": "22"
-            },
-            {
-                "id": "33"
-            }
-        ]
+        "tiles": 3
     },
     {
         "gridSize": "small-block-grid-4",
         "maxWidth": 1.4,
         "delayTime": 600,
-        "tiles": [
-            {
-                "id": "11"
-            },
-            {
-                "id": "22"
-            },
-            {
-                "id": "33"
-            },
-            {
-                "id": "44"
-            }
-        ]
+        "tiles": 4
     },
     {
         "gridSize": "small-block-grid-5",
         "maxWidth": 1.6,
         "delayTime": 500,
-        "tiles": [
-            {
-                "id": "11"
-            },
-            {
-                "id": "22"
-            },
-            {
-                "id": "33"
-            },
-            {
-                "id": "44"
-            },
-            {
-                "id": "55"
-            }
-        ]
+        "tiles": 5
     },
     {
         "gridSize": "small-block-grid-4",
         "maxWidth": 1.1,
         "delayTime": 500,
-        "tiles": [
-            {
-                "id": "11"
-            },
-            {
-                "id": "22"
-            },
-            {
-                "id": "33"
-            },
-            {
-                "id": "44"
-            },
-            {
-                "id": "55"
-            },
-            {
-                "id": "66"
-            }
-        ]
+        "tiles": 6
     },
     {
         "gridSize": "small-block-grid-6",
         "maxWidth": 1.6,
         "delayTime": 400,
-        "tiles": [
-            {
-                "id": "11"
-            },
-            {
-                "id": "22"
-            },
-            {
-                "id": "33"
-            },
-            {
-                "id": "44"
-            },
-            {
-                "id": "55"
-            },
-            {
-                "id": "66"
-            },
-            {
-                "id": "77"
-            },
-            {
-                "id": "88"
-            }
-        ]
+        "tiles": 8
     },
     {
         "gridSize": "small-block-grid-6",
         "maxWidth": 1.4,
         "delayTime": 400,
-        "tiles": [
-            {
-                "id": "11"
-            },
-            {
-                "id": "22"
-            },
-            {
-                "id": "33"
-            },
-            {
-                "id": "44"
-            },
-            {
-                "id": "55"
-            },
-            {
-                "id": "66"
-            },
-            {
-                "id": "77"
-            },
-            {
-                "id": "88"
-            },
-            {
-                "id": "99"
-            },
-            {
-                "id": "110"
-            },
-            {
-                "id": "111"
-            },
-            {
-                "id": "112"
-            }
-        ]
+        "tiles": 12
     }
 ]
